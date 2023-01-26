@@ -1,2 +1,2 @@
 # example-php
-EExample in php principal services restfull
+Example in php principal services restfull
